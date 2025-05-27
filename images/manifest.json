@@ -169,6 +169,87 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "https://Marmaram1997.github.io/TMDRAProject/images/20165319-4a072180-9f19-4240-8ff1-e94279ffcace/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "20165319-4a072180-9f19-4240-8ff1-e94279ffcace"
+                ]
+            },
+            "height": 3667,
+            "width": 5500,
+            "items": [
+                {
+                    "id": "https://Marmaram1997.github.io/TMDRAProject/images/20165319-4a072180-9f19-4240-8ff1-e94279ffcace/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Marmaram1997.github.io/TMDRAProject/images/20165319-4a072180-9f19-4240-8ff1-e94279ffcace/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Marmaram1997.github.io/TMDRAProject/images/20165319-4a072180-9f19-4240-8ff1-e94279ffcace/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 172,
+                                                "height": 115
+                                            },
+                                            {
+                                                "width": 344,
+                                                "height": 230
+                                            },
+                                            {
+                                                "width": 688,
+                                                "height": 459
+                                            },
+                                            {
+                                                "width": 1375,
+                                                "height": 917
+                                            },
+                                            {
+                                                "width": 2750,
+                                                "height": 1834
+                                            },
+                                            {
+                                                "width": 5500,
+                                                "height": 3667
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 5500,
+                                        "@id": "https://Marmaram1997.github.io/TMDRAProject/images/20165319-4a072180-9f19-4240-8ff1-e94279ffcace",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3667,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Marmaram1997.github.io/TMDRAProject/images/20165319-4a072180-9f19-4240-8ff1-e94279ffcace/canvas/"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
