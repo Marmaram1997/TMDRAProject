@@ -90,6 +90,87 @@
             ]
         },
         {
+            "id": "https://Marmaram1997.github.io/TMDRAProject/images/refrigerator-full-of-fresh-vegetables-keeping-food-fresh-and-healthy-photo/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "refrigerator-full-of-fresh-vegetables-keeping-food-fresh-and-healthy-photo"
+                ]
+            },
+            "height": 980,
+            "width": 1470,
+            "items": [
+                {
+                    "id": "https://Marmaram1997.github.io/TMDRAProject/images/refrigerator-full-of-fresh-vegetables-keeping-food-fresh-and-healthy-photo/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Marmaram1997.github.io/TMDRAProject/images/refrigerator-full-of-fresh-vegetables-keeping-food-fresh-and-healthy-photo/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Marmaram1997.github.io/TMDRAProject/images/refrigerator-full-of-fresh-vegetables-keeping-food-fresh-and-healthy-photo/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 46,
+                                                "height": 31
+                                            },
+                                            {
+                                                "width": 92,
+                                                "height": 62
+                                            },
+                                            {
+                                                "width": 184,
+                                                "height": 123
+                                            },
+                                            {
+                                                "width": 368,
+                                                "height": 245
+                                            },
+                                            {
+                                                "width": 735,
+                                                "height": 490
+                                            },
+                                            {
+                                                "width": 1470,
+                                                "height": 980
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1470,
+                                        "@id": "https://Marmaram1997.github.io/TMDRAProject/images/refrigerator-full-of-fresh-vegetables-keeping-food-fresh-and-healthy-photo",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 980,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Marmaram1997.github.io/TMDRAProject/images/refrigerator-full-of-fresh-vegetables-keeping-food-fresh-and-healthy-photo/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://Marmaram1997.github.io/TMDRAProject/images/1000_F_277050708_lt7H8NBmhHXSnOJrL2ph12qBK1IbFsQq/canvas/",
             "type": "Canvas",
             "label": {
