@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 8,
+    "height" : 12
+  }, {
+    "width" : 15,
+    "height" : 23
+  }, {
+    "width" : 30,
+    "height" : 45
+  }, {
+    "width" : 59,
+    "height" : 89
+  }, {
+    "width" : 118,
+    "height" : 177
+  }, {
+    "width" : 236,
+    "height" : 354
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 236,
+  "@id" : "https://Marmaram1997.github.io/TMDRAProject/images/3d49814017afdc71ef647839b1db951b",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 354
+}
