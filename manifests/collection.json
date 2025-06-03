@@ -1,0 +1,13 @@
+{
+  "id" : "https://Marmaram1997.github.io/TMDRAProject/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in Marmaram1997/TMDRAProject project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Marmaram1997.github.io/TMDRAProject/manifests/Maryam_manifest.json",
+    "label" : "Maryam_manifest"
+  } ]
+}
