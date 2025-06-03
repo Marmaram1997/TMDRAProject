@@ -1,0 +1,153 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Marmaram1997.github.io/TMDRAProject/manifests/Maryam_manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Maryam_manifest",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "5 Random pictures of houses",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://0ace32f2-e245-4d88-bdf0-3706e3b39ae8",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://c2db8953-435b-4a21-86b7-4c7cd39b2a72",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 354,
+      "width" : 236,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://278b09d3-c580-430b-8a45-eaf875ef8b27",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://marmaram1997.github.io/TMDRAProject/images/3d49814017afdc71ef647839b1db951b/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://marmaram1997.github.io/TMDRAProject/images/3d49814017afdc71ef647839b1db951b",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 354,
+          "width" : 236
+        },
+        "on" : "http://c2db8953-435b-4a21-86b7-4c7cd39b2a72"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://80a45598-a377-4a15-b006-8f674cec1128",
+      "@type" : "sc:Canvas",
+      "label" : "Working table",
+      "height" : 667,
+      "width" : 1000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://0eaa6216-e741-4a7c-974c-647d125eea56",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://marmaram1997.github.io/TMDRAProject/images/1000_F_277050708_lt7H8NBmhHXSnOJrL2ph12qBK1IbFsQq/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://marmaram1997.github.io/TMDRAProject/images/1000_F_277050708_lt7H8NBmhHXSnOJrL2ph12qBK1IbFsQq",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 667,
+          "width" : 1000
+        },
+        "on" : "http://80a45598-a377-4a15-b006-8f674cec1128"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://7035c810-98a7-49f3-a13f-8eb9d02a1e66",
+      "@type" : "sc:Canvas",
+      "label" : "Living Room",
+      "height" : 1104,
+      "width" : 736,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://0c18cc38-8b55-4015-bd91-e68a9b7eb209",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://marmaram1997.github.io/TMDRAProject/images/89b4bc6ddb6a613f22dcd58870704894/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://marmaram1997.github.io/TMDRAProject/images/89b4bc6ddb6a613f22dcd58870704894",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1104,
+          "width" : 736
+        },
+        "on" : "http://7035c810-98a7-49f3-a13f-8eb9d02a1e66"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://86c7d541-1f5a-483e-a6a5-960676e92e88",
+      "@type" : "sc:Canvas",
+      "label" : "Kitchen",
+      "height" : 2000,
+      "width" : 1500,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://74b63d84-155c-41fe-884f-86c077c557ed",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://marmaram1997.github.io/TMDRAProject/images/FFP073_ic-10-8fa4482995734439ae218be0001640c5/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://marmaram1997.github.io/TMDRAProject/images/FFP073_ic-10-8fa4482995734439ae218be0001640c5",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2000,
+          "width" : 1500
+        },
+        "on" : "http://86c7d541-1f5a-483e-a6a5-960676e92e88"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://3c619d21-c3f1-4650-a2d1-6ed218e2fce1",
+      "@type" : "sc:Canvas",
+      "label" : "Bedroom",
+      "height" : 3667,
+      "width" : 5500,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://529b0e88-f995-401c-a665-0431e959a8e4",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://marmaram1997.github.io/TMDRAProject/images/20165319-4a072180-9f19-4240-8ff1-e94279ffcace/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://marmaram1997.github.io/TMDRAProject/images/20165319-4a072180-9f19-4240-8ff1-e94279ffcace",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3667,
+          "width" : 5500
+        },
+        "on" : "http://3c619d21-c3f1-4650-a2d1-6ed218e2fce1"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
