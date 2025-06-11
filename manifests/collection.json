@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Marmaram1997.github.io/TMDRAProject/manifests/Maryam_manifest.json",
     "label" : "Maryam_manifest"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Marmaram1997.github.io/TMDRAProject/manifests/Reyhanehmanifest.json",
+    "label" : "[Click to edit label]"
   } ]
 }
