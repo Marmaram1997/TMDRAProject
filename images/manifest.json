@@ -819,6 +819,87 @@
             ]
         },
         {
+            "id": "https://Marmaram1997.github.io/TMDRAProject/images/photo_2025-06-11_15-19-09/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "photo_2025-06-11_15-19-09"
+                ]
+            },
+            "height": 1171,
+            "width": 1170,
+            "items": [
+                {
+                    "id": "https://Marmaram1997.github.io/TMDRAProject/images/photo_2025-06-11_15-19-09/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Marmaram1997.github.io/TMDRAProject/images/photo_2025-06-11_15-19-09/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Marmaram1997.github.io/TMDRAProject/images/photo_2025-06-11_15-19-09/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 37,
+                                                "height": 37
+                                            },
+                                            {
+                                                "width": 74,
+                                                "height": 74
+                                            },
+                                            {
+                                                "width": 147,
+                                                "height": 147
+                                            },
+                                            {
+                                                "width": 293,
+                                                "height": 293
+                                            },
+                                            {
+                                                "width": 585,
+                                                "height": 586
+                                            },
+                                            {
+                                                "width": 1170,
+                                                "height": 1171
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1170,
+                                        "@id": "https://Marmaram1997.github.io/TMDRAProject/images/photo_2025-06-11_15-19-09",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1171,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Marmaram1997.github.io/TMDRAProject/images/photo_2025-06-11_15-19-09/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://Marmaram1997.github.io/TMDRAProject/images/89b4bc6ddb6a613f22dcd58870704894/canvas/",
             "type": "Canvas",
             "label": {
