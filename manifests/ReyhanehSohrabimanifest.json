@@ -1,0 +1,153 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Marmaram1997.github.io/TMDRAProject/manifests/ReyhanehSohrabimanifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "[Click to edit label]",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "5 random pictures of animal",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Reyhaneh Sohrabi",
+  "sequences" : [ {
+    "@id" : "http://3d70d5b5-04ca-474c-ba85-85187e12c8f0",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://0da5328d-1121-4c7d-8f3c-da0e55cef93d",
+      "@type" : "sc:Canvas",
+      "label" : "piglet",
+      "height" : 1334,
+      "width" : 2000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://89bc2c62-35d4-4fb4-bb2a-2c1c8cee94d3",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://marmaram1997.github.io/TMDRAProject/images/674dccb00d72f408701810df_fishers_farm_2000x1334_animals/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://marmaram1997.github.io/TMDRAProject/images/674dccb00d72f408701810df_fishers_farm_2000x1334_animals",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1334,
+          "width" : 2000
+        },
+        "on" : "http://0da5328d-1121-4c7d-8f3c-da0e55cef93d"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://09343055-5145-4618-82b5-54d62a9c4cec",
+      "@type" : "sc:Canvas",
+      "label" : "Cat",
+      "height" : 810,
+      "width" : 1440,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c4e497ad-06a1-4721-ac84-32a343d519b7",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://marmaram1997.github.io/TMDRAProject/images/FS_1440x810_how-to-introduce-cats-to-each-other/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://marmaram1997.github.io/TMDRAProject/images/FS_1440x810_how-to-introduce-cats-to-each-other",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 810,
+          "width" : 1440
+        },
+        "on" : "http://09343055-5145-4618-82b5-54d62a9c4cec"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://6ee3769f-dde7-45ea-848e-61eb1b8d0edb",
+      "@type" : "sc:Canvas",
+      "label" : "Panda",
+      "height" : 630,
+      "width" : 1200,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://bf910c47-c775-4bf9-a9de-a5deecff1b0f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://marmaram1997.github.io/TMDRAProject/images/AdobeStock_199226759_429927_reduced/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://marmaram1997.github.io/TMDRAProject/images/AdobeStock_199226759_429927_reduced",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 630,
+          "width" : 1200
+        },
+        "on" : "http://6ee3769f-dde7-45ea-848e-61eb1b8d0edb"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://77d372d5-140e-419b-98bc-07f7aa568155",
+      "@type" : "sc:Canvas",
+      "label" : "Meerkat",
+      "height" : 1280,
+      "width" : 1920,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://b3e8906d-735d-4ea0-a5b4-c0f27807ffb2",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://marmaram1997.github.io/TMDRAProject/images/animalVoting/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://marmaram1997.github.io/TMDRAProject/images/animalVoting",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1280,
+          "width" : 1920
+        },
+        "on" : "http://77d372d5-140e-419b-98bc-07f7aa568155"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://716d1c34-917e-49eb-9604-b5ddc35c623d",
+      "@type" : "sc:Canvas",
+      "label" : "alpaca",
+      "height" : 1171,
+      "width" : 1170,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://16b2ce8b-94bb-46f3-9f07-959d0a429c32",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://marmaram1997.github.io/TMDRAProject/images/photo_2025-06-11_15-19-09/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://marmaram1997.github.io/TMDRAProject/images/photo_2025-06-11_15-19-09",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1171,
+          "width" : 1170
+        },
+        "on" : "http://716d1c34-917e-49eb-9604-b5ddc35c623d"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
