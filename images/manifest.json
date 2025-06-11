@@ -333,6 +333,87 @@
             ]
         },
         {
+            "id": "https://Marmaram1997.github.io/TMDRAProject/images/animalVoting/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "animalVoting"
+                ]
+            },
+            "height": 1280,
+            "width": 1920,
+            "items": [
+                {
+                    "id": "https://Marmaram1997.github.io/TMDRAProject/images/animalVoting/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Marmaram1997.github.io/TMDRAProject/images/animalVoting/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Marmaram1997.github.io/TMDRAProject/images/animalVoting/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 60,
+                                                "height": 40
+                                            },
+                                            {
+                                                "width": 120,
+                                                "height": 80
+                                            },
+                                            {
+                                                "width": 240,
+                                                "height": 160
+                                            },
+                                            {
+                                                "width": 480,
+                                                "height": 320
+                                            },
+                                            {
+                                                "width": 960,
+                                                "height": 640
+                                            },
+                                            {
+                                                "width": 1920,
+                                                "height": 1280
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1920,
+                                        "@id": "https://Marmaram1997.github.io/TMDRAProject/images/animalVoting",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1280,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Marmaram1997.github.io/TMDRAProject/images/animalVoting/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://Marmaram1997.github.io/TMDRAProject/images/20165319-4a072180-9f19-4240-8ff1-e94279ffcace/canvas/",
             "type": "Canvas",
             "label": {
